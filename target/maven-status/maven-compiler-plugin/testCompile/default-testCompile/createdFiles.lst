@@ -1,0 +1,11 @@
+authmanager\TokenCreator.class
+com\spotify\api\PlayListAPI.class
+com\spotify\pojo\Playlist.class
+com\spotify\tests\PlaylistTest.class
+com\spotify\pojo\Owner.class
+com\spotify\pojo\Followers.class
+com\spotify\pojo\ExternalUrls__1.class
+com\spotify\pojo\ExternalUrls.class
+com\spotify\pojo\Tracks.class
+utils\ConfigReader.class
+com\spotify\api\SpecBuilders.class
