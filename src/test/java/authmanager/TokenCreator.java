@@ -16,7 +16,7 @@ public class TokenCreator {
 		HashMap<String, String> param = new HashMap<String, String>();
 		
 		param.put("grant_type", "refresh_token");
-		param.put("refresh_token", "refresh-Token");
+		param.put("refresh_token", "enter your refresh token here");
 		param.put("client_id", "7ed653f6cc1841d5b1a45c6f86bf9003");
 		param.put("client_secret", "268f9dce0a9b46a0963d5242e4dea6cc");
 		
